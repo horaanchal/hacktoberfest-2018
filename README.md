@@ -1,6 +1,6 @@
 ## Hacktoberfest 2018
 
-Hacktoberfest is a month-long celebration of open source.
+Hacktoberfest is a month-long celebration of open source where open source enthusiast have to make 5 pull request and win exciting prizes.
 Hacktoberfest is open to everyone who wants to get started with open sourcing!
 Five pull requests must be made to GitHub-hosted repositories.
 You can sign up anytime between October 1 and October 31 [here](https://hacktoberfest.digitalocean.com/).
